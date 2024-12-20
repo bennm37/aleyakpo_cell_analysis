@@ -1,0 +1,16 @@
+Normality test for WT_G1
+z-score: 13.838527262052857
+p-value: 0.0009885576157364418
+Significantly non-normal distribution.
+Normality test for WT_S/G2
+z-score: 10.34019992167478
+p-value: 0.005684000613359865
+Significantly non-normal distribution.
+Normality test for Mut_G1
+z-score: 4.622629443161183
+p-value: 0.09913083639870206
+Not significantly non-normal.
+Normality test for Mut_S/G2
+z-score: 18.040996919255683
+p-value: 0.00012090584453378974
+Significantly non-normal distribution.

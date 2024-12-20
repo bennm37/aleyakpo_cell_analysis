@@ -1,0 +1,10 @@
+Data collection. 
+For all cells that die, enter the frame number that the green dot first appears 
+into the death time column. Then trace back to the "birth" time for that cell. 
+If the cell is born in frame, add a 1 into the event type column. If it is off
+frame or before the start of the video, add 0 into the start_time column and 
+0 into the event type column. 
+
+For all other cells, their birth time will be calculated approximately from the 
+surface density (generating a curve n(t)). We will account for the cells that 
+die afterwards.
