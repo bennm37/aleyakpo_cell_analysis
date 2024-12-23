@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import os
 
+
 def animate(df):
     unique_frames = sorted(df["Frame"].unique())
     fig, ax = plt.subplots()

@@ -1,0 +1,5 @@
+12_08_2022 10x images
+WT = A1-A3
+R67K = C1-C3
+_2 is continuation of _1 (ie, A1_6_Phase_1.ome is followed by A1_6_Phase_2.ome)- two halves of a single video
+https://www.dropbox.com/scl/fo/ohjwvam5f1m8cdokvtn8v/AAaOLKuxo4fqZRWMu99nMno/2022_08_12%20LiveCyte%20Hek%20cells%20proliferation%2010x/Raw%20Data/2022-08-12_10-46-41/Images?dl=0&rlkey=2up9wdqdmfvukz7wafilngbex&subfolder_nav_tracking=1
